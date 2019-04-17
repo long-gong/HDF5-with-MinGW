@@ -386,3 +386,9 @@ ASALocalRun/
 
 # sftp configuration file
 sftp-config.json
+
+
+##
+cmake-*
+build
+build-*
